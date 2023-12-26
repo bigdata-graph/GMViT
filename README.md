@@ -27,4 +27,4 @@ First download the ModelNet datasets and unzip inside the `data/` directories as
 
 ## Acknoledgements
 
-This paper and repo borrows codes and ideas from several great github repos:  [MVCNN](https://github.com/RBirkeland/MVCNN-PyTorch)  ,  [PointNet](https://github.com/charlesq34/pointnet),  [RotationNet](https://github.com/kanezaki/pytorch-rotationnet)
+This paper and repo borrows codes and ideas from several great github repos: [MVCNN](https://github.com/RBirkeland/MVCNN-PyTorch), [PointNet](https://github.com/charlesq34/pointnet), [GVCNN](https://github.com/waxnkw/gvcnn-pytorch).
