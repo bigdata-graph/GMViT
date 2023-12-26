@@ -1,5 +1,5 @@
 ## Pytorch code for GMViT.
-**View-GCN: View-based Graph Convolutional Network for 3D Shape Analysis**.
+**Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding**.
 
 ## Trainning
 ###  Requiement
