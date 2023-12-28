@@ -4,7 +4,7 @@ import torch
 import torch.nn.functional as F
 
 
-def cal_loss(pred, gold, smoothing=True):
+def cal_loss(pred, gold, smoothing=False):
     ''' Calculate cross entropy loss, apply label smoothing if needed. '''
 
     gold = gold.contiguous().view(-1)
