@@ -7,9 +7,9 @@ This code is tested on Python 3.6 and Pytorch 1.0 +.
 ###  Dataset
 First download the ModelNet datasets and unzip inside the `data/` directories as follows:
 
-- [[Dodecahedron-20]](https://data.airc.aist.go.jp/kanezaki.asako/data/modelnet40v2png_ori4.tar
-) is provided by [[RotationNet]](https://github.com/kanezaki/pytorch-rotationnet) (rendered from viewpoints uniformly sampled on a bounding sphere encompassing the 3D object, corresponding to virtual camera positions at the twenty vertices of a dodecahedron).
-- [[Circle-12]](https://supermoe.cs.umass.edu/shape_recog/depth_images.tar.gz) is provided by [[MVCNN]](https://github.com/jongchyisu/mvcnn_pytorch) (rendered from 12 virtual camera viewpoints evenly spaced around the object circumference at an elevation angle of 30 degrees).
+- Dodecahedron-20 [[this link]](https://data.airc.aist.go.jp/kanezaki.asako/data/modelnet40v2png_ori4.tar
+)  (rendered from viewpoints uniformly sampled on a bounding sphere encompassing the 3D object, corresponding to virtual camera positions at the twenty vertices of a dodecahedron).
+- Circle-12 [[this link]](https://supermoe.cs.umass.edu/shape_recog/depth_images.tar.gz) (rendered from 12 virtual camera viewpoints evenly spaced around the object circumference at an elevation angle of 30 degrees).
 
 ### Command for training
 - Pretrain CNN model in the `train_cnn/` directory: 
