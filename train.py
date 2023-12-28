@@ -61,8 +61,7 @@ def _init_(args):
 def CNN(args):
     pretraining = not args.no_pretraining
     cnet = SVCNN(nclasses=args.num_category, pretraining=args.no_pretraining, cnn_name=args.cnn_name)
-    # cnet.load_state_dict(torch.load('train_cnn/SVCNN_model/view-gcn/model-00000.pth'))
-    cnet.load_state_dict(torch.load('/21085401045/V20/V20/CNN_resnet-18_v20.pth'))
+    cnet.load_state_dict(torch.load('train_cnn/SVCNN_model/view-gcn/model-00000.pth'))
 
     return cnet
 
