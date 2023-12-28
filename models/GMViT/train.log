@@ -1,0 +1,316 @@
+EPOCH #0  lr = 0.009991120277927222
+Train 0, loss: 1.955977, train acc: 0.771005, train avg acc: 0.631544
+Test 0, loss: 1.991766, test acc: 0.699352, test avg acc: 0.675186
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #1  lr = 0.009964516155915148
+Train 1, loss: 1.643234, train acc: 0.889363, train avg acc: 0.825695
+Test 1, loss: 2.055287, test acc: 0.668558, test avg acc: 0.666628
+EPOCH #2  lr = 0.009920292628279096
+Train 2, loss: 1.544464, train acc: 0.926039, train avg acc: 0.882419
+Test 2, loss: 1.854428, test acc: 0.741896, test avg acc: 0.703884
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #3  lr = 0.009858624225078834
+Train 3, loss: 1.499642, train acc: 0.942904, train avg acc: 0.909193
+Test 3, loss: 1.594946, test acc: 0.870746, test avg acc: 0.838360
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #4  lr = 0.009779754323328185
+Train 4, loss: 1.444758, train acc: 0.963527, train avg acc: 0.942178
+Test 4, loss: 1.484449, test acc: 0.905997, test avg acc: 0.880831
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #5  lr = 0.009683994186497125
+Train 5, loss: 1.422687, train acc: 0.966067, train avg acc: 0.948092
+Test 5, loss: 1.385929, test acc: 0.950162, test avg acc: 0.939523
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #6  lr = 0.009571721736097081
+Train 6, loss: 1.391881, train acc: 0.979173, train avg acc: 0.967886
+Test 6, loss: 1.378058, test acc: 0.953809, test avg acc: 0.929105
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #7  lr = 0.009443380060197376
+Train 7, loss: 1.381103, train acc: 0.981103, train avg acc: 0.971729
+Test 7, loss: 1.656848, test acc: 0.839546, test avg acc: 0.836267
+EPOCH #8  lr = 0.009299475664759058
+Train 8, loss: 1.358191, train acc: 0.989333, train avg acc: 0.983029
+Test 8, loss: 1.347475, test acc: 0.962318, test avg acc: 0.946767
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #9  lr = 0.009140576474687252
+Train 9, loss: 1.357663, train acc: 0.988418, train avg acc: 0.981148
+Test 9, loss: 1.350165, test acc: 0.962318, test avg acc: 0.944884
+EPOCH #10  lr = 0.008967309592491039
+Train 10, loss: 1.347735, train acc: 0.989942, train avg acc: 0.983462
+Test 10, loss: 1.346801, test acc: 0.962318, test avg acc: 0.948052
+EPOCH #11  lr = 0.00878035882339634
+Train 11, loss: 1.335735, train acc: 0.993396, train avg acc: 0.988231
+Test 11, loss: 1.334492, test acc: 0.970016, test avg acc: 0.958599
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #12  lr = 0.008580461976679086
+Train 12, loss: 1.329496, train acc: 0.995123, train avg acc: 0.992292
+Test 12, loss: 1.323918, test acc: 0.968801, test avg acc: 0.948721
+EPOCH #13  lr = 0.008368407953869091
+Train 13, loss: 1.324467, train acc: 0.996546, train avg acc: 0.994713
+Test 13, loss: 1.338442, test acc: 0.968395, test avg acc: 0.951762
+EPOCH #14  lr = 0.008145033635316119
+Train 14, loss: 1.320373, train acc: 0.996952, train avg acc: 0.995719
+Test 14, loss: 1.325509, test acc: 0.971232, test avg acc: 0.961390
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #15  lr = 0.007911220577405474
+Train 15, loss: 1.315307, train acc: 0.997054, train avg acc: 0.994883
+Test 15, loss: 1.322061, test acc: 0.971232, test avg acc: 0.959471
+EPOCH #16  lr = 0.007667891533457709
+Train 16, loss: 1.310937, train acc: 0.998476, train avg acc: 0.997924
+Test 16, loss: 1.319017, test acc: 0.971637, test avg acc: 0.957802
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #17  lr = 0.007416006812042818
+Train 17, loss: 1.312209, train acc: 0.998070, train avg acc: 0.996879
+Test 17, loss: 1.326246, test acc: 0.970016, test avg acc: 0.960047
+EPOCH #18  lr = 0.007156560487081042
+Train 18, loss: 1.308094, train acc: 0.998679, train avg acc: 0.998108
+Test 18, loss: 1.313740, test acc: 0.972853, test avg acc: 0.962593
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #19  lr = 0.006890576474687255
+Train 19, loss: 1.307746, train acc: 0.998171, train avg acc: 0.997239
+Test 19, loss: 1.314891, test acc: 0.974473, test avg acc: 0.963674
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #20  lr = 0.006619104492241837
+Train 20, loss: 1.306559, train acc: 0.998679, train avg acc: 0.998721
+Test 20, loss: 1.317424, test acc: 0.973663, test avg acc: 0.964134
+EPOCH #21  lr = 0.006343215915635753
+Train 21, loss: 1.303777, train acc: 0.998984, train avg acc: 0.998884
+Test 21, loss: 1.312799, test acc: 0.974473, test avg acc: 0.959715
+EPOCH #22  lr = 0.006063999551039362
+Train 22, loss: 1.304388, train acc: 0.998679, train avg acc: 0.998453
+Test 22, loss: 1.310803, test acc: 0.974878, test avg acc: 0.965762
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #23  lr = 0.005782557337881903
+Train 23, loss: 1.300732, train acc: 0.999187, train avg acc: 0.999178
+Test 23, loss: 1.311835, test acc: 0.976499, test avg acc: 0.967884
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #24  lr = 0.005499999999999993
+Train 24, loss: 1.301412, train acc: 0.999187, train avg acc: 0.999061
+Test 24, loss: 1.309845, test acc: 0.976094, test avg acc: 0.965715
+EPOCH #25  lr = 0.005217442662118083
+Train 25, loss: 1.299815, train acc: 0.999594, train avg acc: 0.999413
+Test 25, loss: 1.308457, test acc: 0.976094, test avg acc: 0.969593
+EPOCH #26  lr = 0.004936000448960624
+Train 26, loss: 1.299058, train acc: 0.999289, train avg acc: 0.999266
+Test 26, loss: 1.312114, test acc: 0.975284, test avg acc: 0.968174
+EPOCH #27  lr = 0.004656784084364233
+Train 27, loss: 1.299049, train acc: 0.998984, train avg acc: 0.998601
+Test 27, loss: 1.311962, test acc: 0.975284, test avg acc: 0.968093
+EPOCH #28  lr = 0.004380895507758147
+Train 28, loss: 1.298800, train acc: 0.998984, train avg acc: 0.998719
+Test 28, loss: 1.312676, test acc: 0.975689, test avg acc: 0.968343
+EPOCH #29  lr = 0.004109423525312733
+Train 29, loss: 1.297952, train acc: 0.999187, train avg acc: 0.998777
+Test 29, loss: 1.315249, test acc: 0.974878, test avg acc: 0.967843
+EPOCH #30  lr = 0.0038434395129189453
+Train 30, loss: 1.297335, train acc: 0.998882, train avg acc: 0.998809
+Test 30, loss: 1.309661, test acc: 0.976499, test avg acc: 0.967924
+EPOCH #31  lr = 0.0035839931879571682
+Train 31, loss: 1.297462, train acc: 0.999086, train avg acc: 0.998818
+Test 31, loss: 1.309734, test acc: 0.976499, test avg acc: 0.966965
+EPOCH #32  lr = 0.003332108466542276
+Train 32, loss: 1.297724, train acc: 0.999086, train avg acc: 0.998820
+Test 32, loss: 1.310466, test acc: 0.976904, test avg acc: 0.970215
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #33  lr = 0.00308877942259451
+Train 33, loss: 1.296431, train acc: 0.998984, train avg acc: 0.998921
+Test 33, loss: 1.311722, test acc: 0.976904, test avg acc: 0.967215
+EPOCH #34  lr = 0.0028549663646838678
+Train 34, loss: 1.295668, train acc: 0.999086, train avg acc: 0.998879
+Test 34, loss: 1.312848, test acc: 0.974878, test avg acc: 0.964884
+EPOCH #35  lr = 0.002631592046130893
+Train 35, loss: 1.296251, train acc: 0.999086, train avg acc: 0.998925
+Test 35, loss: 1.315252, test acc: 0.976094, test avg acc: 0.968674
+EPOCH #36  lr = 0.002419538023320898
+Train 36, loss: 1.294627, train acc: 0.998781, train avg acc: 0.998320
+Test 36, loss: 1.310985, test acc: 0.976094, test avg acc: 0.968674
+EPOCH #37  lr = 0.0022196411766036463
+Train 37, loss: 1.295646, train acc: 0.998882, train avg acc: 0.998680
+Test 37, loss: 1.312506, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #38  lr = 0.0020326904075089465
+Train 38, loss: 1.295547, train acc: 0.998882, train avg acc: 0.998515
+Test 38, loss: 1.312662, test acc: 0.974473, test avg acc: 0.964552
+EPOCH #39  lr = 0.001859423525312735
+Train 39, loss: 1.294389, train acc: 0.999086, train avg acc: 0.998726
+Test 39, loss: 1.309366, test acc: 0.975284, test avg acc: 0.966134
+EPOCH #40  lr = 0.0017005243352409315
+Train 40, loss: 1.294374, train acc: 0.999086, train avg acc: 0.998831
+Test 40, loss: 1.311826, test acc: 0.974878, test avg acc: 0.964843
+EPOCH #41  lr = 0.0015566199398026124
+Train 41, loss: 1.294819, train acc: 0.999187, train avg acc: 0.999035
+Test 41, loss: 1.311630, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #42  lr = 0.001428278263902912
+Train 42, loss: 1.293207, train acc: 0.999086, train avg acc: 0.998868
+Test 42, loss: 1.311967, test acc: 0.975284, test avg acc: 0.966093
+EPOCH #43  lr = 0.0013160058135028682
+Train 43, loss: 1.294246, train acc: 0.999289, train avg acc: 0.999088
+Test 43, loss: 1.311152, test acc: 0.974473, test avg acc: 0.964674
+EPOCH #44  lr = 0.0012202456766718087
+Train 44, loss: 1.294751, train acc: 0.999187, train avg acc: 0.999075
+Test 44, loss: 1.309518, test acc: 0.975689, test avg acc: 0.968424
+EPOCH #45  lr = 0.0011413757749211603
+Train 45, loss: 1.292952, train acc: 0.998984, train avg acc: 0.998485
+Test 45, loss: 1.308179, test acc: 0.977715, test avg acc: 0.970674
+Current best saved in: ********** models/train_trans/models/model.t7 **********
+EPOCH #46  lr = 0.0010797073717209004
+Train 46, loss: 1.293846, train acc: 0.999390, train avg acc: 0.999391
+Test 46, loss: 1.309537, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #47  lr = 0.00103548384408485
+Train 47, loss: 1.293880, train acc: 0.998882, train avg acc: 0.998666
+Test 47, loss: 1.311296, test acc: 0.975689, test avg acc: 0.966424
+EPOCH #48  lr = 0.001008879722072778
+Train 48, loss: 1.293986, train acc: 0.999086, train avg acc: 0.998844
+Test 48, loss: 1.311567, test acc: 0.976094, test avg acc: 0.967593
+EPOCH #49  lr = 0.001
+Train 49, loss: 1.292904, train acc: 0.999086, train avg acc: 0.998653
+Test 49, loss: 1.309525, test acc: 0.975284, test avg acc: 0.966174
+EPOCH #50  lr = 0.001
+Train 50, loss: 1.294043, train acc: 0.998882, train avg acc: 0.998537
+Test 50, loss: 1.309054, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #51  lr = 0.001
+Train 51, loss: 1.292513, train acc: 0.998984, train avg acc: 0.998708
+Test 51, loss: 1.311695, test acc: 0.974473, test avg acc: 0.963674
+EPOCH #52  lr = 0.001
+Train 52, loss: 1.293971, train acc: 0.998781, train avg acc: 0.998425
+Test 52, loss: 1.310262, test acc: 0.976094, test avg acc: 0.966674
+EPOCH #53  lr = 0.001
+Train 53, loss: 1.293553, train acc: 0.999187, train avg acc: 0.999072
+Test 53, loss: 1.313084, test acc: 0.974878, test avg acc: 0.965924
+EPOCH #54  lr = 0.001
+Train 54, loss: 1.292339, train acc: 0.999086, train avg acc: 0.998831
+Test 54, loss: 1.308936, test acc: 0.974473, test avg acc: 0.967674
+EPOCH #55  lr = 0.001
+Train 55, loss: 1.293922, train acc: 0.998984, train avg acc: 0.998780
+Test 55, loss: 1.310260, test acc: 0.974878, test avg acc: 0.965884
+EPOCH #56  lr = 0.001
+Train 56, loss: 1.293859, train acc: 0.999492, train avg acc: 0.999361
+Test 56, loss: 1.315540, test acc: 0.974473, test avg acc: 0.964634
+EPOCH #57  lr = 0.001
+Train 57, loss: 1.293514, train acc: 0.998984, train avg acc: 0.998625
+Test 57, loss: 1.314005, test acc: 0.976499, test avg acc: 0.968884
+EPOCH #58  lr = 0.001
+Train 58, loss: 1.292575, train acc: 0.999086, train avg acc: 0.999101
+Test 58, loss: 1.310279, test acc: 0.975689, test avg acc: 0.967384
+EPOCH #59  lr = 0.001
+Train 59, loss: 1.293088, train acc: 0.999086, train avg acc: 0.998715
+Test 59, loss: 1.311650, test acc: 0.974068, test avg acc: 0.967424
+EPOCH #60  lr = 0.001
+Train 60, loss: 1.292934, train acc: 0.998781, train avg acc: 0.998627
+Test 60, loss: 1.310415, test acc: 0.975689, test avg acc: 0.966424
+EPOCH #61  lr = 0.001
+Train 61, loss: 1.293520, train acc: 0.999187, train avg acc: 0.998920
+Test 61, loss: 1.311825, test acc: 0.974473, test avg acc: 0.965674
+EPOCH #62  lr = 0.001
+Train 62, loss: 1.291644, train acc: 0.999187, train avg acc: 0.999060
+Test 62, loss: 1.308566, test acc: 0.976094, test avg acc: 0.969674
+EPOCH #63  lr = 0.001
+Train 63, loss: 1.293563, train acc: 0.999289, train avg acc: 0.998959
+Test 63, loss: 1.310323, test acc: 0.974878, test avg acc: 0.966924
+EPOCH #64  lr = 0.001
+Train 64, loss: 1.291837, train acc: 0.998882, train avg acc: 0.998552
+Test 64, loss: 1.311622, test acc: 0.975689, test avg acc: 0.967384
+EPOCH #65  lr = 0.001
+Train 65, loss: 1.292801, train acc: 0.998781, train avg acc: 0.998486
+Test 65, loss: 1.310323, test acc: 0.975689, test avg acc: 0.967424
+EPOCH #66  lr = 0.001
+Train 66, loss: 1.292711, train acc: 0.998882, train avg acc: 0.998383
+Test 66, loss: 1.310656, test acc: 0.975284, test avg acc: 0.965174
+EPOCH #67  lr = 0.001
+Train 67, loss: 1.292248, train acc: 0.999086, train avg acc: 0.998667
+Test 67, loss: 1.309757, test acc: 0.975689, test avg acc: 0.967424
+EPOCH #68  lr = 0.001
+Train 68, loss: 1.292608, train acc: 0.999086, train avg acc: 0.998844
+Test 68, loss: 1.312392, test acc: 0.975284, test avg acc: 0.967174
+EPOCH #69  lr = 0.001
+Train 69, loss: 1.291794, train acc: 0.999695, train avg acc: 0.999570
+Test 69, loss: 1.311942, test acc: 0.975284, test avg acc: 0.965215
+EPOCH #70  lr = 0.001
+Train 70, loss: 1.292064, train acc: 0.999289, train avg acc: 0.999290
+Test 70, loss: 1.311697, test acc: 0.974878, test avg acc: 0.965924
+EPOCH #71  lr = 0.001
+Train 71, loss: 1.292405, train acc: 0.999187, train avg acc: 0.998520
+Test 71, loss: 1.310450, test acc: 0.976499, test avg acc: 0.967965
+EPOCH #72  lr = 0.001
+Train 72, loss: 1.293036, train acc: 0.999390, train avg acc: 0.999365
+Test 72, loss: 1.312398, test acc: 0.975284, test avg acc: 0.965174
+EPOCH #73  lr = 0.001
+Train 73, loss: 1.292748, train acc: 0.999187, train avg acc: 0.998871
+Test 73, loss: 1.311298, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #74  lr = 0.001
+Train 74, loss: 1.290992, train acc: 0.999086, train avg acc: 0.998713
+Test 74, loss: 1.311225, test acc: 0.976094, test avg acc: 0.968674
+EPOCH #75  lr = 0.001
+Train 75, loss: 1.291434, train acc: 0.999086, train avg acc: 0.998702
+Test 75, loss: 1.308901, test acc: 0.976499, test avg acc: 0.966924
+EPOCH #76  lr = 0.001
+Train 76, loss: 1.291256, train acc: 0.999492, train avg acc: 0.999429
+Test 76, loss: 1.312073, test acc: 0.974473, test avg acc: 0.965674
+EPOCH #77  lr = 0.001
+Train 77, loss: 1.292633, train acc: 0.998882, train avg acc: 0.998796
+Test 77, loss: 1.310776, test acc: 0.975284, test avg acc: 0.966174
+EPOCH #78  lr = 0.001
+Train 78, loss: 1.292312, train acc: 0.998984, train avg acc: 0.998805
+Test 78, loss: 1.311330, test acc: 0.975689, test avg acc: 0.967384
+EPOCH #79  lr = 0.001
+Train 79, loss: 1.291135, train acc: 0.999492, train avg acc: 0.999264
+Test 79, loss: 1.309885, test acc: 0.976499, test avg acc: 0.967924
+EPOCH #80  lr = 0.001
+Train 80, loss: 1.291975, train acc: 0.999086, train avg acc: 0.998796
+Test 80, loss: 1.311416, test acc: 0.975689, test avg acc: 0.967424
+EPOCH #81  lr = 0.001
+Train 81, loss: 1.291712, train acc: 0.999289, train avg acc: 0.998926
+Test 81, loss: 1.309736, test acc: 0.977310, test avg acc: 0.968465
+EPOCH #82  lr = 0.001
+Train 82, loss: 1.290051, train acc: 0.999390, train avg acc: 0.999416
+Test 82, loss: 1.312000, test acc: 0.976499, test avg acc: 0.967924
+EPOCH #83  lr = 0.001
+Train 83, loss: 1.291602, train acc: 0.999492, train avg acc: 0.999325
+Test 83, loss: 1.311228, test acc: 0.975689, test avg acc: 0.967384
+EPOCH #84  lr = 0.001
+Train 84, loss: 1.291560, train acc: 0.998984, train avg acc: 0.998579
+Test 84, loss: 1.311081, test acc: 0.976094, test avg acc: 0.966634
+EPOCH #85  lr = 0.001
+Train 85, loss: 1.291138, train acc: 0.999187, train avg acc: 0.999167
+Test 85, loss: 1.309489, test acc: 0.976499, test avg acc: 0.967884
+EPOCH #86  lr = 0.001
+Train 86, loss: 1.291940, train acc: 0.998984, train avg acc: 0.998625
+Test 86, loss: 1.310236, test acc: 0.976904, test avg acc: 0.968215
+EPOCH #87  lr = 0.001
+Train 87, loss: 1.291231, train acc: 0.999187, train avg acc: 0.998920
+Test 87, loss: 1.310235, test acc: 0.976094, test avg acc: 0.967634
+EPOCH #88  lr = 0.001
+Train 88, loss: 1.291464, train acc: 0.999289, train avg acc: 0.999125
+Test 88, loss: 1.310409, test acc: 0.976094, test avg acc: 0.968634
+EPOCH #89  lr = 0.001
+Train 89, loss: 1.291885, train acc: 0.998984, train avg acc: 0.998745
+Test 89, loss: 1.308263, test acc: 0.976904, test avg acc: 0.968134
+EPOCH #90  lr = 0.001
+Train 90, loss: 1.290983, train acc: 0.999086, train avg acc: 0.998879
+Test 90, loss: 1.309152, test acc: 0.975689, test avg acc: 0.967384
+EPOCH #91  lr = 0.001
+Train 91, loss: 1.291073, train acc: 0.999086, train avg acc: 0.998689
+Test 91, loss: 1.311145, test acc: 0.974878, test avg acc: 0.965843
+EPOCH #92  lr = 0.001
+Train 92, loss: 1.291416, train acc: 0.999187, train avg acc: 0.998766
+Test 92, loss: 1.309694, test acc: 0.974878, test avg acc: 0.965965
+EPOCH #93  lr = 0.001
+Train 93, loss: 1.291760, train acc: 0.999390, train avg acc: 0.999391
+Test 93, loss: 1.310010, test acc: 0.976094, test avg acc: 0.967715
+EPOCH #94  lr = 0.001
+Train 94, loss: 1.292280, train acc: 0.999289, train avg acc: 0.999112
+Test 94, loss: 1.313258, test acc: 0.975284, test avg acc: 0.966174
+EPOCH #95  lr = 0.001
+Train 95, loss: 1.290905, train acc: 0.999390, train avg acc: 0.999212
+Test 95, loss: 1.311528, test acc: 0.976499, test avg acc: 0.967965
+EPOCH #96  lr = 0.001
+Train 96, loss: 1.290955, train acc: 0.999086, train avg acc: 0.998818
+Test 96, loss: 1.311333, test acc: 0.977310, test avg acc: 0.968465
+EPOCH #97  lr = 0.001
+Train 97, loss: 1.290339, train acc: 0.998984, train avg acc: 0.998614
+Test 97, loss: 1.312568, test acc: 0.975689, test avg acc: 0.968343
+EPOCH #98  lr = 0.001
+Train 98, loss: 1.291465, train acc: 0.999086, train avg acc: 0.998807
+Test 98, loss: 1.310371, test acc: 0.976094, test avg acc: 0.967674
+EPOCH #99  lr = 0.001
+Train 99, loss: 1.290611, train acc: 0.999086, train avg acc: 0.998728
+Test 99, loss: 1.310753, test acc: 0.975689, test avg acc: 0.967465
