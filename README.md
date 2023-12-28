@@ -25,6 +25,9 @@ First download the ModelNet datasets and unzip inside the `data/` directories as
       python KD_GMViT_simple.py -name GMViT_simple -num_views 20 -group_num 12
       python KD_GMViT_mini.py -name GMViT_mini -num_views 20 -group_num 12
 
+### Pretrained Model
+We have provided a pre-trained model located in the "models/GMViT/models/model.t7" directory, achieving an Overall Accuracy (OA) of 97.77% and a mean Accuracy (mA) of 97.07% under the Dodecahedron-20 setting on the ModelNet40 dataset.
+
 ## References
 
 L. Xu, Q. Cui, W. Xu, E. Chen, H. Tong, Y. Tang, Walk in views: Multi-view path aggregation graph network for 3d shape analysis, Information Fusion 103 (2024) 102131.
