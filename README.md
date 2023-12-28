@@ -26,7 +26,7 @@ First download the ModelNet datasets and unzip inside the `data/` directories as
       python KD_GMViT_mini.py -name GMViT_mini -num_views 20 -group_num 12
 
 ### Pretrained Model
-We have provided a pre-trained model in [[here]](https://pan.baidu.com/s/1uSt-RxG3zhUZeSVjNS4fng?pwd=bs66) (code: bs66), achieving an Overall Accuracy (OA) of 97.77% and a mean Accuracy (mA) of 97.07% under the Dodecahedron-20 setting on the ModelNet40 dataset. Please download it and please it in `models/GMViT/models/model.t7` directory.
+We have provided a pre-trained model in [[here]](https://pan.baidu.com/s/1uSt-RxG3zhUZeSVjNS4fng?pwd=bs66) (code: bs66), achieving an Overall Accuracy (OA) of 97.77% and a mean Accuracy (mA) of 97.07% under the Dodecahedron-20 setting on the ModelNet40 dataset. Please download it and please it in `models/GMViT/models/` directory.
 
 ## References
 
