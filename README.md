@@ -31,3 +31,5 @@ We have provided a pre-trained model in [[here]](https://pan.baidu.com/s/1uSt-Rx
 ## References
 
 L. Xu, Q. Cui, W. Xu, E. Chen, H. Tong, Y. Tang, Walk in views: Multi-view path aggregation graph network for 3d shape analysis, Information Fusion 103 (2024) 102131.
+
+L. Xu, Q. Cui, R. Hong, W. Xu, E. Chen, X. Yuan, and Y. Tang, “Group multi-view transformer for 3d shape analysis with spatial encoding,” arXiv preprint arXiv:2312.16477, 2023.
